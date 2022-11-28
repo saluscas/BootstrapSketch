@@ -11002,6 +11002,10 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+
+/*----------------------------------------------------------------------
+CUSTONS
+----------------------------------------------------------------------*/
 section {
   background-color: transparent;
 }
@@ -11066,5 +11070,5 @@ section {
 }
 
 .margin-top-h2 {
-  margin-top: 8px;
+  margin-top: 20px;
 }/*# sourceMappingURL=style.css.map */

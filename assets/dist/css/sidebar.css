@@ -204,7 +204,7 @@ a.article, a.article:hover {
     margin: 0 auto;
     display: block;
     background: #555;
-    transition: all 0.5s cubic-bezier(0.810, -0.330, 0.345, 1.375);
+    transition: all 0.4s cubic-bezier(0.810, -0.330, 0.345, 1.375);
     transition-delay: 0.0s;
 }
 
